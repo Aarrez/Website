@@ -1,6 +1,6 @@
 .bgimage {
     height:100vh;
-    background: url('FishInPond.jpg');
+    background: url('images/FishInPond.jpg');
     background-size:cover;
     position:relative;
 }
@@ -18,4 +18,11 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+}
+.imageAboutPage {
+    width: 100%;
+}
+.nav-link{
+  color: rgb(0, 255, 255);
+  mix-blend-mode: difference;
 }
