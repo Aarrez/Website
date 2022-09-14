@@ -9,6 +9,17 @@
     <title>My Website</title>
   </head>
   <body>
+    <section class="bgimage" id="home">
+        <div class="container-fluid">
+            <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text">
+                <h2 class="hero_title">Hi, it's me Brad</h2>
+                <p class="hero_desc">I am a professional freelancer in New York City</p>
+            </div>
+            </div>
+        </div>
+    </section>
+
     <nav class="navbar navbar-expand-lg fixed-top navbarScroll">
         <div class="container">
             <a class="navbar-brand" href="#">Brad</a>
@@ -37,19 +48,7 @@
             </div>
         </div>
     </nav>
-    <!--
-    <h1>Hello please put in you valuable private info</h1>
-
-    <form class="" action="coolName.php" method="post">
-      Name: <input type="text" name="name" value ="none">
-      <br>
-      Surname: <input type="text" name="surname" value ="none">
-      <br>
-      <input type="submit">
-    </form>
-  -->
 
   </body>
+  <script src="bootstrap-5.2.1-dist\js\bootstrap.min.js" crossorigin="anonymous">
 </html>
-
-<!-- Latest compiled and minified CSS -->
